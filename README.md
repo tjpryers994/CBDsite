@@ -13,9 +13,6 @@ I will be targeting people that vape and want a cbd oil vape liquid. Will be a e
 
  <!-----Add more here------->
 
-Here are my wireframes: ![alt](wireframes/landing.png)
-![alt](wireframes/signup.png)
-![alt](wireframes/whatisit.png)
 
 ## Features:
 

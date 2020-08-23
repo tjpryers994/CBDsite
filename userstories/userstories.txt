@@ -1,0 +1,7 @@
+User Stories
+
+1. As a user interested in a mobile friendly website, I loaded it up on my phone and it loaded really quickly the layout was legible and easy
+to understand and the mimimalist approach made it even easier to navigate.
+
+2. As a user who likes as much information as possible on said product, I found that it was easy to find more information
+ about CBD plus links to further resources about it but the basic was covered on the what is it page.
